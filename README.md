@@ -123,18 +123,15 @@
       <div class="audio-box">
         <audio id="audio2" controls preload="none">
           <source src="te esperare.mp3" type="audio/mpeg">
-      
       </div>
       <div class="audio-box">
         <audio id="audio2" controls preload="none">
           <source src="eres.mp3" type="audio/mpeg">
-          
         </audio>
          </div>
       <div class="audio-box">
         <audio id="audio2" controls preload="none">
           <source src="mitad y mitad.mp3" type="audio/mpeg">
-          
         <button onclick="document.getElementById('audio2').play()">▶ Reproducir</button>
       </div>https://tuusuario.github.io/mi-sitio-musical/
     </div>¡Hola! Te comparto mi página de música 🎵
