@@ -111,7 +111,7 @@
     <h2>Galería de Imágenes</h2>
     <div class="galeria">
       <div class="foto"><img src="violuna.jpeg" alt="Foto especial"></div>
-      <div class="foto"><img src="violetta live.jpeg" alt="Mariposa animada"></div>
+      <div class="foto"><img src="Violetta live.jpeg" alt="Mariposa animada"></div>
       <div class="foto"><img src="Leon and Violetta.jpeg" alt="Lutteo"></div>
       <div class="foto"><img src="Lutteo.jpeg" alt="leonetta"></div>
     </div>
